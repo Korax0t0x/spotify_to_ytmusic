@@ -1,0 +1,61 @@
+
+music.youtube.com
+:method:
+POST
+:path:
+/youtubei/v1/browse?ctoken=4qmFsgKlAhIMRkVtdXNpY19ob21lGpQCQ0FONnlnRkhTMU5vTjNGeWF5MUpNRVJYYjAxQ1EyOUJRa05wVWpWa1JqbDNXVmRrYkZnelRuVlpXRUo2WVVjNU1GZ3lNVEZqTW14cVdETkNhRm95Vm1aamJWWnVZVmM1ZFZsWGQxTkllbWN4VlVkTk1sVnFWbGxrVkVadVdURldSRTlIVFRCTVdFWnlXa2RzVGs1SE9EQmhiVGxyWlVkellVNHdNVEZqTW14cVVrZHNlbGt5T1RKYVdFbzFWVWRHYmxwV1RteGpibHB3V1RKVmRGSXlWakJUUnpsMFdsWkNhRm95VlVGQlVVSnRZMmRCUWxKc1NVRkJWVnBUUVVGRlFrRjNSRFp1VFdVNVExRkpTVUpC&continuation=4qmFsgKlAhIMRkVtdXNpY19ob21lGpQCQ0FONnlnRkhTMU5vTjNGeWF5MUpNRVJYYjAxQ1EyOUJRa05wVWpWa1JqbDNXVmRrYkZnelRuVlpXRUo2WVVjNU1GZ3lNVEZqTW14cVdETkNhRm95Vm1aamJWWnVZVmM1ZFZsWGQxTkllbWN4VlVkTk1sVnFWbGxrVkVadVdURldSRTlIVFRCTVdFWnlXa2RzVGs1SE9EQmhiVGxyWlVkellVNHdNVEZqTW14cVVrZHNlbGt5T1RKYVdFbzFWVWRHYmxwV1RteGpibHB3V1RKVmRGSXlWakJUUnpsMFdsWkNhRm95VlVGQlVVSnRZMmRCUWxKc1NVRkJWVnBUUVVGRlFrRjNSRFp1VFdVNVExRkpTVUpC&type=next&itct=CBAQybcCIhMI4d7PquT4jQMVLPpJBx3ouR5B&prettyPrint=false
+:scheme:
+https
+accept:
+*/*
+accept-encoding:
+gzip, deflate, br, zstd
+accept-language:
+fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
+authorization:
+SAPISIDHASH 1750174567_6d7858e4293a4eecf8e35f1549426bff49c895ed_u SAPISID1PHASH 1750174567_6d7858e4293a4eecf8e35f1549426bff49c895ed_u SAPISID3PHASH 1750174567_6d7858e4293a4eecf8e35f1549426bff49c895ed_u
+content-length:
+3425
+content-type:
+application/json
+cookie:
+LOGIN_INFO=AFmmF2swRQIgODj6PR9isqYQGbMIrFbtER3PP9dnMbuGjjlWuBQAH5wCIQD2xya9dYPSP_Ebv4JQUYmnHye9DJ35JJONQ3LuBS73tg:QUQ3MjNmeENBTjFmMVkzVHVhRDF3WjQydHJUaTk3eXNzTmo1a2duV19JZzRBSXdBaGZIbDZyT2RNSm9XV09PdTBuc19KdUZVNWN3YUpFX1I1M3pDOEZhZldPcnNxSWJjLTdMNHc0RFBFVm5GU2ozbE9GUzhyZjhOWlpJcUYwcXQ4Q1RKVkVmbjFrajBsOFdPVDA5Q2xZWEJpdERZd19QSmtR; __Secure-YEC=CgtWSVE4TWdvMXJlTSihpKi-BjIiCgJGUhIcEhgSFhMLFBUWFwwYGRobHB0eHw4PIBAREiEgUA%3D%3D; VISITOR_INFO1_LIVE=Q4UmahCUZMs; VISITOR_PRIVACY_METADATA=CgJGUhIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiA-; _ga=GA1.1.1487616764.1744981593; HSID=APX7fRF15WSsAZOQc; SSID=A2RihL2VASBbubfFV; APISID=AX1ffJQS0Af-n6aY/A4eeTgo6xxNvdjJXr; SAPISID=uiTzgbM4RhC5OxN5/AySUnMF2rztS7_l4x; __Secure-1PAPISID=uiTzgbM4RhC5OxN5/AySUnMF2rztS7_l4x; __Secure-3PAPISID=uiTzgbM4RhC5OxN5/AySUnMF2rztS7_l4x; YSC=y1waPFKjubE; _gcl_au=1.1.2127767541.1749475787; SID=g.a000xgjbOmOlOsgwsewI5Z_ZEdH0bYyeBCRhzoswIIzsK6t47CJs0pYSfevEiXR_E2XMg2pk9QACgYKAQISARQSFQHGX2MihWDGQJCdcK0a6byO4x3hmRoVAUF8yKrQimIN1uKK8qXTUpeVZWuq0076; __Secure-1PSID=g.a000xgjbOmOlOsgwsewI5Z_ZEdH0bYyeBCRhzoswIIzsK6t47CJsVqJ_oeKVYz99GrtzS4YBSQACgYKAV8SARQSFQHGX2Mi713w_2sD4h7LgmxAbhd-bRoVAUF8yKoyCUszmUTU9ftjTmqDu67Z0076; __Secure-3PSID=g.a000xgjbOmOlOsgwsewI5Z_ZEdH0bYyeBCRhzoswIIzsK6t47CJsMhOgzHREBZd5suflYrEsxgACgYKAR0SARQSFQHGX2MiHMzwrwEnAMmJ7AAoFgVZ0xoVAUF8yKrLSUTkRCZVgYP5Q_-ILYRL0076; _ga_VCGEPY40VB=GS2.1.s1749902989$o2$g1$t1749903010$j39$l0$h0; __Secure-ROLLOUT_TOKEN=CNSAitvUiP7RqQEQnpnrjZvkiwMY_9bThLP4jQM%3D; NID=524=QbiCF5KGBybb0v_EjRwBTzaY_zv2cGWj7qkockSuJg2oID64bKtr9IT8pQw2mjqnhRa43NZrVpYzvYXHnShwgpupfrbTfLvwloktCPfPx3Y0DO5bWNSdD6i5RxUT9EoiOB6QUWkQI_hbzGF5UjN_6qR-racwMdtmVAP9NBfsWy3AQUkw52k03PmUw_8U7_I9hzXjTlUSSh_DPguIqVJ3iVd8PIKVy6tAwnCtaHM0oNtQAPlX-ezBq-rK_UHNlX1D; PREF=f6=40000000&tz=Europe.Paris&f5=30000&f7=100&repeat=NONE&autoplay=true; __Secure-1PSIDTS=sidts-CjIB5H03PxcHE-UYLBIJePewoZcF7PtUptkrqSB-UuJn6vj-JUm5k8hqE3B_C3WCfxtnuhAA; __Secure-3PSIDTS=sidts-CjIB5H03PxcHE-UYLBIJePewoZcF7PtUptkrqSB-UuJn6vj-JUm5k8hqE3B_C3WCfxtnuhAA; CONSISTENCY=AKreu9saz0hcZ3v_fUpWGw4x2biXzUOe0DqQNqSL-FtQpOLSjQA4QRptWAcyjBGPpEVOSHlCwAMN3o1WqmHo9bd2SWtp-0G23s9HjXrgnbVbornXymP0GMHDWw0oyJeVSdFIyontNpqyYITZtA4LmS1eSOQuQ5_nypkfFETt7sK2bQ; SIDCC=AKEyXzUz1_Gs83Ie7DNe1v-Lk1CICD9rC-Ywo5NePov8_C4XSlsJCLRWvoDxmRqJGZcXuaTF7HE; __Secure-1PSIDCC=AKEyXzVnU8kn6bDQSg3MHImwEq2ms92YowugiiSSK7ZeUDVEI3Gk8QHkXkpYwTbXVXkE8mfyxA; __Secure-3PSIDCC=AKEyXzXRGkDSEXbJ-y2vgVqiFavWF7vZ3MzLgm20tjwg3IJ6CagWGq3T0JzhnGEzpM0Olv3mN10
+origin:
+https://music.youtube.com
+priority:
+u=1, i
+referer:
+https://music.youtube.com/
+sec-ch-ua:
+"Not A(Brand";v="8", "Chromium";v="132", "Opera";v="117"
+sec-ch-ua-mobile:
+?0
+sec-ch-ua-platform:
+"Windows"
+sec-fetch-dest:
+empty
+sec-fetch-mode:
+same-origin
+sec-fetch-site:
+same-origin
+user-agent:
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36 OPR/117.0.0.0
+x-client-data:
+CLbwygE=
+Décodées :
+message ClientVariations {
+  // Active Google-visible variation IDs on this client. These are reported for analysis, but do not directly affect any server-side behavior.
+  repeated int32 variation_id = [3323958];
+}
+x-goog-authuser:
+0
+x-goog-visitor-id:
+CgtRNFVtYWhDVVpNcyjylcbCBjInCgJGUhIhEh0SGwsMDg8QERITFBUWFxgZGhscHR4fICEiIyQlJiA-
+x-origin:
+https://music.youtube.com
+x-youtube-bootstrap-logged-in:
+true
+x-youtube-client-name:
+67
+x-youtube-client-version:
+1.20250610.09.01
